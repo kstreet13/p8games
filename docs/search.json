@@ -5,5 +5,12 @@
     "title": "Games Library",
     "section": "",
     "text": "Froggier\n\n\n\nLander"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Just for fun, I’m learning PICO-8 and making some simple games along the way."
   }
 ]
