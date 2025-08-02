@@ -1,7 +1,10 @@
 project:
   type: website
+  output-dir: docs
   resources: 
-    - "resources/*"
+    - "*.html"
+    - "*.js"
+    - "*.p8.png"
 
 website:
   title: "p8games"
@@ -13,9 +16,10 @@ website:
 
 format:
   html:
+    respect-user-color-scheme: true
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
 

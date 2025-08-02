@@ -1,12 +1,10 @@
 ---
-title: "p8games"
+title: "Games Library"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
+### [Froggier](resources/frogger/frogger.html)
 [![](resources/frogger/frogger.p8.png)](resources/frogger/frogger.html)
 
+### [Lander](resources/lander/lander.html)
 [![](resources/lander/lander.p8.png)](resources/lander/lander.html)
 
